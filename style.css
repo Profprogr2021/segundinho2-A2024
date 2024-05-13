@@ -6,8 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #fd0c0c;
-    color: white;
+    background-color: #042fec;
+    color: rgb(32, 8, 247);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -29,12 +29,12 @@ body {
     color: white;
 }
 
-.escola-imagem{
+.turma-imagem{
     width: 25%;
 }
 
-#escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+#turma{
+    background-image: linear-gradient(#e74b4b,#e97b7b);
     color:white;
     display: flex;
     justify-content: center;
@@ -42,12 +42,12 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.turma-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.turma-titulo{
     padding: 24px 0;
 }
 
